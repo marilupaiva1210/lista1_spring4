@@ -1,0 +1,3 @@
+3 - Dizemos que uma API é RESTFull quando?
+
+quando uma api possui todos os padrões de estilo de arquitetura REST, ela é caracterizada como API RESTfull.

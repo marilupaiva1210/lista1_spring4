@@ -1,0 +1,4 @@
+1 - O que é uma API?
+
+Existem dois sistemas na qual precisam conversar, que não dependem de tecnologia aberta para funcionar. Usa padrões de rede para trafegar os dados.
+Utilizando o recurso da internet, usa verbos HTTP para solicitar ou modificar recursos. É possível desenvolver aplicações servidores e aplicações solicitantes.

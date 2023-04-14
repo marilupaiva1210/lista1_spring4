@@ -1,0 +1,3 @@
+2 - O que é o padrão REST?
+
+é um modelo para progetar arquitetura software, troca informações pela internet e utiliza o formato JSON (objeto JavaScript) para transportar dados.

@@ -1,0 +1,7 @@
+4 - Na especificação do protocolo HTTP, usado atualmente por todas as aplicações que executam na web, existe uma lista de verbos (Ações) que podemos utilizar na construção de APIs REST, cite os cinco verbos HTTP mais comuns e de uma descrição de cada um deles.
+
+GET: recupera dads do recurso.
+POST: adiciona novos recursos.
+PUT: altera recursos já existentes ou adiciona.
+DELETE: deleta um recurso.
+PATCH: altera um recurso sem passar todos os campos.

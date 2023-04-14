@@ -1,0 +1,9 @@
+9 - MVC é um padrão de arquitetura de software criado na década de 1970, com o principal objetivo a separação interna dos sistemas em pelo menos 3 camadas lógicas interconectadas, onde cada camada é responsável por uma etapa dentro do processo de construção do software. Dito isto, o termo MODEL se refere a:
+
+1 - A camada de apresentação ao usuário
+2 - A camada que orquestra a comunicação do usuário com a aplicação
+3 - A camada que abriga as regras de negócio dos sistemas
+4 - A camada que representa a criação de arquivos no disco do servidor
+5 - Nenhuma das alternativas
+
+A alternativa 3

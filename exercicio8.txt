@@ -1,0 +1,9 @@
+8 - Um ponto importante sobre os controladores (Controllers), é o seu relacionamento direto com a forma que os usuários interagem com o sistema, sempre através de urls mapeadas. Pensando no mapeamento entre url e controller, assinale abaixo qual método será executado quando o usuário acessar:
+
+1 - O método form()
+2 - O Método listarUsuario()
+3 - O Método alterarUsuario()
+4 - O Método listarUsuarioUrl()
+5 - Será apresentado um erro
+
+será o método listarUsuario()

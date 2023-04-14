@@ -1,0 +1,4 @@
+6 - Dado o Controller abaixo, explique qual é a finalidade do comando apresentado na linha 20
+
+é um mapeamento da requisição, para que ele saiba que quando a requisição for executada, deve ser executado o resultado.
+

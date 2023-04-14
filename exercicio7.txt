@@ -1,0 +1,5 @@
+7 - Qual é a função do arquivo pom.xml, criado automaticamente junto com um projeto Spring Boot?
+
+é onde fica a estrutura do maven, ele guarda informações baseadas nas opções que o usuário escolheu. 
+
+todas as ferramentas necessárias para execussão de um projeto são feitas automáticamentes pela função pom.xml.

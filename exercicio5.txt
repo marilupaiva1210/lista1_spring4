@@ -1,0 +1,7 @@
+5 - Explique o que são REQUEST e RESPONSE?
+
+os dois são tipos de mensagens.
+
+request são requisições enviadas por um cliente, para disparar uma ação no servidor.
+
+responses são respostas, réplicas do servidor.
